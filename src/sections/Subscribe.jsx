@@ -1,4 +1,4 @@
-import Button from "../components/button"
+import Button from "../components/Button"
 const Subscribe = () => {
   return (
     <section id="contact-us" className=" max-container flex justify-between items-center max-lg:flex-col gap-10 w-full max-container">
